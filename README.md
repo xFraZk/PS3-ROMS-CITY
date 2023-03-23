@@ -36,6 +36,10 @@ Este repositorio, o lugar donde se almacenan los juegos, contendrá una selecci�
 > Sin embargo, queremos hacer una aclaración importante en cuanto al uso compartido de estas descargas. Si decides compartir alguno de los juegos que descargaste de nuestro canal, por favor asegúrate de dar los créditos correspondientes. También te pedimos que evites compartir descargas que contengan publicidad o que sean incompatibles con la plataforma PS3, ya que esto podría causar problemas técnicos en la consola y afectar negativamente la experiencia de juego de otros usuarios.
 
 > Es importante destacar que nos reservamos el derecho de reportar el uso compartido de juegos de PS3 ROMS CITY que contengan publicidad, ya que esto va en contra de nuestra política de proporcionar descargas limpias y de alta calidad a través de nuestro canal de Telegram. Esperamos que entiendas la importancia de seguir estas directrices para garantizar una experiencia de juego óptima y justa para todos los usuarios.
+
+• Peticiones de juegos
+> Para peticiones de juegos, es necesario que te unas al grupo. Importante mandar el nombre del juego, el cover y pedirlo con por favor. Se paciente cuando pidas un juego.
+
 </p>
 </details>
 
