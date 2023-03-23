@@ -16,6 +16,8 @@ Ofrecemos juegos para PS3 en todos los formatos disponibles, incluyendo ISO y Ca
 
 Este repositorio, o lugar donde se almacenan los juegos, contendrá una selección de juegos que han sido subidos por un administrador. Sin embargo, es importante tener en cuenta que no todos los juegos estarán disponibles para su visualización en el repositorio. __Para poder ver todos los juegos, será necesario unirse al canal de Telegram asociado con el repositorio. El canal de Telegram proporcionará acceso a una lista completa de juegos disponibles para su descarga o visualización.__
 
+• Juegos: https://github.com/xFraZk/PS3-ROMS-CITY/releases
+
 <details><summary>Haz clic en mí para obtener información sobre soporte, juegos y peticiones</summary>
 <p>
 
