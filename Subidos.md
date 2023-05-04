@@ -7,7 +7,4 @@ En este repositorio se encuentran varios juegos subidos por el administrador Fra
 |---------------------------------|--------------|----------------|------------|
 | #SAW                            | BLES00676    | ISO/CARPETA    | PS3        |
 | #UEFAEuro2016France             | BLES02228    | ISO/CARPETA    | PS3        |
-| #AvatarTheGame #Avatar          | BLES00667    | ISO/CARPETA    | PS3        |
-| #Ratatouille                    | BLES00080    | ISO            | PS3        |
-| #TheSims3                       | BLUS30609    | ISO            | PS3        |
-| #TronEvolution                  | BLES00761    | ISO            | PS3        |
+
